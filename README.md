@@ -1,5 +1,7 @@
 # GPSTimeServer
 
+*This fork is for ESP8266+RTC only , removed Buttons,Display and GPS*
+
 ![ezgif com-gif-maker0](https://user-images.githubusercontent.com/38574378/117382664-69117f00-aeb5-11eb-818f-4dcee22dbfc9.gif)
 
 WiFi enabled GPS fed NTP server based on NodeMCU Amica and Arduino framework
