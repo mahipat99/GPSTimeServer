@@ -35,10 +35,8 @@ https://forum.arduino.cc/t/zs-042-ds3231-rtc-module/268862/33
 
 Libraries:
 
--	paulstoffregen/Time@^1.6
--	makuna/RTC@^2.3.5
--	mikalhart/TinyGPS@0.0.0-alpha+sha.db4ef9c97a
--	olikraus/U8g2@^2.28.8
+- [paulstoffregen/Time@^1.6](https://github.com/PaulStoffregen/Time)
+- [makuna/RTC@^2.3.5](https://github.com/Makuna/Rtc)
 
 Source code based on:
 
